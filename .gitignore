@@ -1,1 +1,3 @@
 *.dat
+*.[oa] File .o or .a will be ignore
+!lib.a  everything except lib.a
